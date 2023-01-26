@@ -1,6 +1,6 @@
 # ISMaterialLibrary
 
-This library groups shaders by the projects they were created in. It gives quick acces to shaders relevant to the current project.
+This library groups shaders by the projects they were created in. It gives quick access to shaders relevant to the current project.
 It also allows for the sorting of shaders by their material properties and searching by name. When exporting one has the opportunity to copy and relink all
 connected textures to the location of the shader. A whole project group with all shaders in it can be copied to a different location for backup purposes.
 Descriptions of shaders can be added or changed at any time. One can also overwrite and export/import multiple versions of a material.
