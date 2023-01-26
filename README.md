@@ -10,5 +10,6 @@ To use it one must:
 in documents can be used for personal work.
 3. On lines 20 and 21 change the paths "/maya/2020/scripts/ISMLconfig.txt" and "O:/Maya/MayaScripts/ISML/ISMLconfig.txt" to the locations of your config files.
 4. In Maya write the following python script and save it in a shelf.
+
 import ISML
 reload(ISML)
