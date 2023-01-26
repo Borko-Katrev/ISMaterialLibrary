@@ -12,4 +12,5 @@ in documents can be used for personal work.
 4. In Maya write the following python script and save it in a shelf.
 
 import ISML
+
 reload(ISML)
